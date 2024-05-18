@@ -1,0 +1,4 @@
+C:\Users\macbookair\source\repos\EmployeeApp\obj\Debug\net6.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbookair\source\repos\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\macbookair\source\repos\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\macbookair\source\repos\EmployeeApp\obj\Debug\net6.0\EmployeeApp.csproj.CoreCompileInputs.cache
