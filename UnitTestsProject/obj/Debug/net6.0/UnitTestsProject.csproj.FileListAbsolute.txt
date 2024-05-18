@@ -1,0 +1,6 @@
+C:\Users\macbookair\source\repos\UnitTestsProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\macbookair\source\repos\UnitTestsProject\obj\Debug\net6.0\UnitTestsProject.csproj.AssemblyReference.cache
+C:\Users\macbookair\source\repos\UnitTestsProject\obj\Debug\net6.0\UnitTestsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbookair\source\repos\UnitTestsProject\obj\Debug\net6.0\UnitTestsProject.AssemblyInfoInputs.cache
+C:\Users\macbookair\source\repos\UnitTestsProject\obj\Debug\net6.0\UnitTestsProject.AssemblyInfo.cs
+C:\Users\macbookair\source\repos\UnitTestsProject\obj\Debug\net6.0\UnitTestsProject.csproj.CoreCompileInputs.cache
